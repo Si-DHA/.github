@@ -1,6 +1,8 @@
 # [SiDHA](https://sidha-frontend.vercel.app/)
 
-![SiDHA](https://i.ibb.co.com/4PL5Srw/Instagram-post.png)
+<div align="center">
+  <img src="https://i.ibb.co.com/FmwyYqP/Instagram-post-1.png" alt="SiDHA">
+</div>
 
 Sistem Informasi Dwi Harapan Agung (SiDHA) is a web-based system developed to assist in the logistics business processes of PT Dwi Harapan Agung. It aids in managing new clients, price quotations, contract documents with client companies, truck assets, purchase orders, invoices, payments, and delivery of goods. SiDHA caters to both the company and clients of PT DHA, with four user types: Admin, Employee, Driver, and Client. Check out SiDHA via the following link https://sidha-frontend.vercel.app/
 
